@@ -11,4 +11,4 @@
 
 Relaxing, writing code and trying out new technologies that no one asked for 😁
 
-![seraphim](./seraphim-sticker.png)
+<img src="./seraphim-sticker.png" alt="seraphim-sticker-logo" width="200"/>
