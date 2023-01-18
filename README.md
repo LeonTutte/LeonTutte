@@ -1,16 +1,14 @@
-### Hi there 👋
+### Moinsen 👋🏾
 
-<!--
-**LeonTutte/LeonTutte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I reveal to you
 
-Here are some ideas to get you started:
+- I am always open for exciting projects!
+- I love databases of all kinds
+- I love to deal with data storage (Every byte must be saved 😝)
+- When I grow up, I would love to program a new edition of Supreme Commander.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### The vibe
+
+Relaxing, writing code and trying out new technologies that no one asked for 😁
+
+![seraphim](./seraphim-sticker.png)
