@@ -11,7 +11,5 @@
 
 Relaxing, writing code and trying out new technologies that no one asked for 😁
 
-<img src="./seraphim-sticker.png" alt="seraphim-sticker-logo" width="200"/> ![](https://github-readme-stats.vercel.app/api?username=leontutte&show_icons=true&theme=transparent)
-
 
 If you miss any repositories, please visit my personal git instance, you know where to find it ;)
